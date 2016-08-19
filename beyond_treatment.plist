@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Intranet</string>
+				<string>test.Treatment---Beyond</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Intranet</string>
+				<string>Treatment and Beyond</string>
 			</dict>
 		</dict>
 	</array>
